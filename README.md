@@ -1,1 +1,1 @@
-# This repo tracks my progress of the Playwright Coursw I am currently learning
+# This repo tracks my progress of the Playwright Course I am currently learning
